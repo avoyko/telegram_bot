@@ -3,7 +3,7 @@ Your personal assistant with algorithms
 
 # Short Review
 
-This bot can find you algorithmic articles on requested topics or send a random problem on Leetcode
+This bot can find you algorithmic articles on requested topics or send a random problem from Leetcode
 
 # Presentation
 
